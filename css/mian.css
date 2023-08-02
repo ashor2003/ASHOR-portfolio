@@ -42,7 +42,7 @@ section
 .mian{
      width: 100%;
     height: 100vh;
-    background-image: url(/img/2.png);
+    background-image: url(../img/2.png);
     opacity: 0.9;
     background-size: cover;
     display: flex;
@@ -147,7 +147,7 @@ background-color: black;
     background-color: #fff;
 border: 1px solid #fff ;
     min-height: 14em ;
-    width: 23em ;
+    width: 20em ;
     overflow: hidden;
     margin: 20px;
     border-radius: 10px;
